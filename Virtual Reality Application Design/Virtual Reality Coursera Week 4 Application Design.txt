@@ -1,0 +1,30 @@
+Virtual Reality Week 4 Application Design Assignment 
+The three illusions: describe how the three illusions are supported in your VR application.
+Place illusion is of great use here. As the VR takes the tourist directly to the place the tourist 
+wants to visit, the tourist can get a proper idea of the place and experience it while sitting at 
+home or generally anywhere. Plausibility illusion here as well is of great importance so that the 
+tourist can see what's happening in the destination and can get the exact feel of the place. 
+Embodiment illusion is also of a great use as the tourist can see himself there directly on the 
+destination and can consider himself being in the destination.
+
+Market: describe who will be your targeted users and how would you try to reach out to them?
+Although it is tempting to put "everybody" as your market, when designing a VR app it is actually 
+going to be more effective if you start with a more specific market in mind - it's difficult to cater for 
+all tastes and needs!
+When designing a VR app with so many different technical/content considerations to balance, 
+having a specific audience in mind will keep you focused when it comes to choosing your VR 
+hardware and software.
+This app will most prominently be directed towards tourists and travelers who like to experience 
+new places and are curious to know about their destination. Common people who want to travel 
+but also want to understand their destination and their hotels before visiting can also use this app 
+that will greatly benefit them.
+Evaluation: do you think your desired market can easily access the required VR hardware? 
+Explain why and, if the answer is yes: identify any opportunities to further improve accessibility; 
+or if the answer is no: explain how to re-address your design or point out what is missing.
+I feel that the market should get an easy access because that will encourage people to try the 
+app to travel more and understand different places. The app can be used by so many curious 
+travellers that will encourage them find and tour different places and the app will save both time 
+and money therefore the app should be more available.
+
+-By  
+Aditi Kathalay
