@@ -1,50 +1,51 @@
-## ** Virtual Reality Week 2 Application Design Assignment **
-==
+# Virtual Reality Week 2 Application Design Assignment
 
-### ** Motivation:** 
+## Motivation:
+
 Describe your VR application, and what you would like to achieve with it.
-Similar to existing VR applications reviewed in this course, your VR application should be 
-designed to solve a problem, share an experience, create a new business opportunity, or explore 
+Similar to existing VR applications reviewed in this course, your VR application should be
+designed to solve a problem, share an experience, create a new business opportunity, or explore
 new ways to express yourself.
 You should explain your motivation behind your VR application.
-VR can be of great help in tourism. Tourists can experience the destination before they make 
-right choices about hotels and places to visit. They can have a virtual guide of the place they 
-want to visit and then make the right calls. In this situation the tourists will save time and 
-money and they'll be able to make the right decisions depending upon their requirements. 
+VR can be of great help in tourism. Tourists can experience the destination before they make
+right choices about hotels and places to visit. They can have a virtual guide of the place they
+want to visit and then make the right calls. In this situation the tourists will save time and
+money and they'll be able to make the right decisions depending upon their requirements.
 They can also review their experience of the application to make it more interesting for people.
 
-### **VR technical specification:** 
-Give details of your VR app regarding the following three aspects: 
+### VR technical specification:
+
+Give details of your VR app regarding the following three aspects:
 VR display, VR content, VR interaction.
-Here the VR display will have 3D images, user dynamic control of viewpoint and surrounding 
-experience. The tourists can choose what they want to view and can interact with the 
-environment. Sounds can be added in the surroundings to make the experience better. VR 
-content here can be a video of the location that the tourist wants to visit or a 360 degree tour of 
-the hotel room. VR interaction will be done when the tourist turns his phone to view the specific 
+Here the VR display will have 3D images, user dynamic control of viewpoint and surrounding
+experience. The tourists can choose what they want to view and can interact with the
+environment. Sounds can be added in the surroundings to make the experience better. VR
+content here can be a video of the location that the tourist wants to visit or a 360 degree tour of
+the hotel room. VR interaction will be done when the tourist turns his phone to view the specific
 areas of the location.
-* Existing similar apps: find 2-3 existing VR applications that:
-Either
-1. Similar to what you are trying to achieve
-Or
-2. Share certain elements you could borrow from
+
+- Existing similar apps: find 2-3 existing VR applications that:
+  Either 1. Similar to what you are trying to achieve.
+  Or 2. Share certain elements you could borrow from
 
 They can be applications which inspired your own design.
-Describe the apps, give the links, and provide some explanation why you think they are similar 
+Describe the apps, give the links, and provide some explanation why you think they are similar
 and what can you learn from them.
 
-Thomas Cook launched their VR experience in 2015, where the tourist can experience and visit 
-stores and locations in various places across the world using VR before booking. 
-http://www.trybeforeyoufly.ca/ This idea is similar to my application because through this as well, 
-people can save money and time which might be wasted for a mundane trip which the tourist 
-may not enjoy. In my application idea we can add more stores to make it more appealing. Google 
-expedition is another way tourists can travel from their home and experience the pleasure of 
-travelling. It also has many different scenarios for tourists to enjoy ranging from oceans to even 
-mars surface.
+Thomas Cook launched their VR experience in 2015, where the tourist can experience and visit
+stores and locations in various places across the world using VR before booking.
+
+- [Try before you fly](http://www.trybeforeyoufly.ca/) - This idea is similar to my application because through this as well,
+  people can save money and time which might be wasted for a mundane trip which the tourist
+  may not enjoy. In my application idea we can add more stores to make it more appealing. Google
+  expedition is another way tourists can travel from their home and experience the pleasure of
+  travelling. It also has many different scenarios for tourists to enjoy ranging from oceans to even
+  mars surface.
 
 Why does your application need to use VR as opposed to a standard on-screen interface?
-The application must need a VR, so that the tourists can get an exact and proper idea which 
-otherwise cannot be conveyed with a standard on-screen interface. Tourists can enjoy the 
-pleasure of travelling and can make better decisions through their own experience with the 
+The application must need a VR, so that the tourists can get an exact and proper idea which
+otherwise cannot be conveyed with a standard on-screen interface. Tourists can enjoy the
+pleasure of travelling and can make better decisions through their own experience with the
 application.
 
 -By
